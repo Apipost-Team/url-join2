@@ -3,7 +3,7 @@ Join all arguments together and normalize the resulting URL.
 ## Install
 
 ```bash
-npm install url-join22
+npm install url-join2
 ```
 
 ## Usage
