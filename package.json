@@ -1,5 +1,5 @@
 {
-  "name": "@apipost-lab001/url-join2",
+  "name": "apipost-url-join2",
   "version": "1.0.0",
   "description": "Join urls and normalize as in path.join.",
   "main": "index.js",
